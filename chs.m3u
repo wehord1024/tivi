@@ -1669,8 +1669,6 @@ http://cdn.adultiptv.net/asian.m3u8
 https://live.redtraffic.net/woman.m3u8
 #EXTINF:-1 tvg-id="Babestation24.ch" tvg-logo="https://i.imgur.com/DNJP1gi.png" group-title="成人频道",Babestation24 (720p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
-#EXTINF:-1 tvg-id="BlueHustler.nl" tvg-logo="https://i.imgur.com/G1YaX0Q.png" group-title="成人频道",Blue Hustler (720p)
-http://193.33.240.8:8080/hustler_hd/index.m3u8
 #EXTINF:-1 tvg-id="BrazzersTVEurope.us" tvg-logo="https://i.imgur.com/95nP0Pb.png" group-title="成人频道",Brazzers TV Europe (720p)
 https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="DorcelTV.nl" tvg-logo="https://i.imgur.com/RkzyjEd.png" group-title="成人频道",Dorcel TV (720p)
@@ -1681,24 +1679,6 @@ https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
 https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HustlerHD.nl" tvg-logo="https://i.imgur.com/41Ej2io.png" group-title="成人频道",Hustler HD (720p)
 https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="JasminTV.lu" tvg-logo="https://i.imgur.com/3VdU9r0.png" group-title="成人频道",Jasmin TV (1080p)
-http://109.71.163.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="JennyForYou.us" tvg-logo="https://i.imgur.com/W9x8sNg.png" group-title="成人频道",Jenny For You (720p)
-https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
-#EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="成人频道",Miami TV (720p)
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 tvg-id="JennyLive.us" tvg-logo="https://i.imgur.com/3vsBZI3.png" group-title="成人频道",Miami TV Jenny Live (720p) [Not 24/7]
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-logo="https://i.imgur.com/MpQtdTb.png" group-title="成人频道",Miami TV Mexico (1080p)
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="成人频道",O-la-la! (576p)
-http://31.148.48.15/O-la-la/index.m3u8
-#EXTINF:-1 tvg-id="PenthouseGold.us" tvg-logo="https://i.imgur.com/0JufwBJ.png" group-title="成人频道",Penthouse Gold (1080p)
-http://51.159.102.100/PenthouseGold/index.m3u8
-#EXTINF:-1 tvg-id="PlayboyTVLatinAmericaHD.us" tvg-logo="https://i.imgur.com/B3DMUM9.png" group-title="成人频道",Playboy TV Latin America (1080p)
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="PrivateTV.nl" tvg-logo="https://i.imgur.com/2yt8MAA.png" group-title="成人频道",Private TV (576p)
-http://149.62.183.194:9293/play/a07t
 #EXTINF:-1 tvg-id="PrivateTVHD.nl" tvg-logo="https://i.imgur.com/89E8Ev2.png" group-title="成人频道",Private TV HD (720p)
 https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RedlightHD.nl" tvg-logo="https://i.imgur.com/g0QF5IG.png" group-title="成人频道",Redlight HD (720p)
@@ -1707,8 +1687,6 @@ https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
 http://live-1.otcnet.ru/shelkhdmts/playlist.m3u8
 #EXTINF:-1 tvg-id="VisitXTV.nl" tvg-logo="https://i.imgur.com/avtSqUu.png" group-title="成人频道",Visit-X TV (720p)
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="XXXCartoons.de" tvg-logo="https://i.imgur.com/kNYY78z.png" group-title="成人频道",XXX Cartoons (520p)
-http://144.76.58.245:2307/cartoon/index.m3u8
 
 #EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="成人频道",东热01
 https://video1.rhsj520.com/nyrm3/2011225/DR/n0011/index.m3u8
